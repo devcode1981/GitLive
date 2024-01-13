@@ -1,7 +1,7 @@
 ---
-title: Video Calling / Code Sharing
+title: Video Calling
 styleid: main-nav
-subtitle: Seamlessly edit files together in real-time
+subtitle: Call your teammates and edit files together in real-time, straight from your IDE
 author: sunny
 subsection: [VS Code, JetBrains, Android Studio]
 step: fifth
